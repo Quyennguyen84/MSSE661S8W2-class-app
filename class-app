@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title> <p>Hello World <p></title>
+    </head>
+
+    <body>
+            <h1 color="blue"> Hello World</h1>
+    This is an online sales website for music products such as books,
+    musical instruments (new, old). Customers can access all products 
+    that the admin allows. This site has the most important part for
+    the admin who will manage it all through the admin login function 
+    nd products will be updated weekly. Besides, there is also a part on 
+    the right side of the screen for advertising products, piano, guitar, ect..
+
+    
+
+    </body>
+
+</html>
